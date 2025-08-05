@@ -75,6 +75,13 @@ Key Learnings
 
 ---
 
+Trained Model Download
+
+Download the trained UNet model from the link below
+[Download unet_colorizer.pth (Google Drive)] (https://drive.google.com/file/d/1Lr-R_Qa3j43XC_EvalvKJYi78WePeszI/view?usp=sharing)
+
+---
+
 Files Submitted
 
 - `training.ipynb`: Training notebook with wandb tracking  
